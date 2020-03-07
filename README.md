@@ -16,4 +16,10 @@ Features:
   ![alt text](https://github.com/bhanujoshi24/blog/blob/master/post1.png)
   
   Login Page:
+  ![alt text](https://github.com/bhanujoshi24/blog/blob/master/post2.png)
   
+  Signup Page:
+  ![alt text](https://github.com/bhanujoshi24/blog/blob/master/post3.png)
+  
+  Working of Created restAPI 
+  ![alt text](https://github.com/bhanujoshi24/blog/blob/master/post4.png)
